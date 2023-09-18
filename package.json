@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/oyhub/joker/issues"
   },
-  "homepage": "https://github.com/oyhub/joker#readme"
+  "homepage": "https://github.com/oyhub/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
